@@ -1,2 +1,8 @@
-# awesome-links
-awesome-links to pages about computer science mostly in Polish
+### Index
+
+* [C++](#c++)
+
+### c++
+
+* [makefile](https://pl.wikibooks.org/wiki/Git)
+
