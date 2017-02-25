@@ -4,5 +4,5 @@
 
 ### c++
 
-* [makefile](https://pl.wikibooks.org/wiki/Git)
+* [makefile](http://arkadiuszcwiek.pl/krotkie-wprowadzenie-do-gnu-make-czyli-jak-pisac-poprawne-makefile/)
 
