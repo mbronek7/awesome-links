@@ -4,5 +4,5 @@
 
 ### c++
 
-* [makefile](http://arkadiuszcwiek.pl/krotkie-wprowadzenie-do-gnu-make-czyli-jak-pisac-poprawne-makefile/)
+* [makefile](http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
 
