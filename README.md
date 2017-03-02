@@ -1,12 +1,12 @@
 ### Index
 
 * [C++](#C++)
-* [C#](#C#)
+* [C Sharp](#C#)
 
 ### C++
 
 * [makefile](http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
 
-### C#
+### C Sharp
 
 * [Podstawy](https://pl.wikibooks.org/wiki/C_Sharp)
