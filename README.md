@@ -3,7 +3,7 @@
 * [C++](#c)
 * [C Sharp](#csharp)
 * [ASK](#ask)
-* [LINUX] (#linux)
+* [LINUX](#linux)
 
 ### C++
 
